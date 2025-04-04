@@ -1,1 +1,1 @@
-Workshop on machine learning with python. 
+Workshop on machine learning with python 
